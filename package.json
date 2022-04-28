@@ -1,0 +1,14 @@
+{
+  "name": "terra-pubkey-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "PeratX",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "dependencies": {
+    "bech32": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.29"
+  }
+}
